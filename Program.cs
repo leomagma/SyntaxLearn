@@ -45,5 +45,9 @@ class Syntaxz{
     sha.Add(5, 23);
     sha.Subtract(34, 45);
         
+    var geek = new Geek();
+
+    geek.mythod();
+
     }
 }

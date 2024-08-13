@@ -12,3 +12,4 @@
 /home/bishel/Documents/lab/ClassC#/SyntaxLearn/obj/Debug/net8.0/SyntaxLearn.pdb
 /home/bishel/Documents/lab/ClassC#/SyntaxLearn/obj/Debug/net8.0/SyntaxLearn.genruntimeconfig.cache
 /home/bishel/Documents/lab/ClassC#/SyntaxLearn/obj/Debug/net8.0/ref/SyntaxLearn.dll
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/obj/Debug/net8.0/SyntaxLearn.sourcelink.json
