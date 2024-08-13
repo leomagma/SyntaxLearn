@@ -1,0 +1,14 @@
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/obj/Debug/net8.0/SyntaxLearn.GeneratedMSBuildEditorConfig.editorconfig
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/obj/Debug/net8.0/SyntaxLearn.AssemblyInfoInputs.cache
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/obj/Debug/net8.0/SyntaxLearn.AssemblyInfo.cs
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/obj/Debug/net8.0/SyntaxLearn.csproj.CoreCompileInputs.cache
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/bin/Debug/net8.0/SyntaxLearn
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/bin/Debug/net8.0/SyntaxLearn.deps.json
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/bin/Debug/net8.0/SyntaxLearn.runtimeconfig.json
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/bin/Debug/net8.0/SyntaxLearn.dll
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/bin/Debug/net8.0/SyntaxLearn.pdb
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/obj/Debug/net8.0/SyntaxLearn.dll
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/obj/Debug/net8.0/refint/SyntaxLearn.dll
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/obj/Debug/net8.0/SyntaxLearn.pdb
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/obj/Debug/net8.0/SyntaxLearn.genruntimeconfig.cache
+/home/bishel/Documents/lab/ClassC#/SyntaxLearn/obj/Debug/net8.0/ref/SyntaxLearn.dll
